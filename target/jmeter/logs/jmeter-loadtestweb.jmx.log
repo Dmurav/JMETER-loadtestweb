@@ -1,0 +1,488 @@
+2021-01-26 22:36:39,612 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-01-26 22:36:39,631 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-01-26 22:36:39,631 WARN o.a.j.JMeter: LogLevel: DEBUG
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: Version 5.0 r1840935
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: java.version=11.0.9.1
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: os.name=Linux
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: os.arch=amd64
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: os.version=5.4.0-62-generic
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-01-26 22:36:39,637 INFO o.a.j.JMeter: Max memory     =2147483648
+2021-01-26 22:36:39,638 INFO o.a.j.JMeter: Available Processors =8
+2021-01-26 22:36:39,644 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-01-26 22:36:39,645 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-01-26 22:36:39,645 INFO o.a.j.JMeter: JMeterHome=/home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter
+2021-01-26 22:36:39,645 INFO o.a.j.JMeter: user.dir  =/home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/bin
+2021-01-26 22:36:39,645 INFO o.a.j.JMeter: PWD       =/home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/bin
+2021-01-26 22:36:39,645 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: dima-N550JV FullName: dima-N550JV
+2021-01-26 22:36:39,645 DEBUG o.a.j.JMeter: ClassPath
+2021-01-26 22:36:39,645 DEBUG o.a.j.JMeter: ApacheJMeter-5.0.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/Saxon-HE-9.8.0-12.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/accessors-smart-1.2.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/asm-6.1.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/bcmail-jdk15on-1.60.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/bcpkix-jdk15on-1.60.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/bcprov-jdk15on-1.60.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/bsf-2.4.0.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/bsh-2.0b6.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/caffeine-2.6.2.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-codec-1.11.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-collections-3.2.2.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-dbcp2-2.4.0.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-io-2.6.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-jexl-2.1.1.jar
+2021-01-26 22:36:39,646 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-jexl3-3.1.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-lang3-3.8.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-math3-3.6.1.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-net-3.6.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/commons-pool2-2.6.0.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/dec-0.1.2.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/dnsjava-2.1.8.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/freemarker-2.3.28.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/geronimo-jms_1.1_spec-1.1.1.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/groovy-all-2.4.15.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/httpasyncclient-4.1.3.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/httpclient-4.5.6.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/httpcore-4.4.10.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/httpcore-nio-4.4.10.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/httpmime-4.5.6.jar
+2021-01-26 22:36:39,647 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/javax.activation-1.2.0.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/javax.activation-api-1.2.0.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jcharts-0.7.5.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jcl-over-slf4j-1.7.25.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jodd-core-4.1.4.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jodd-lagarto-4.1.4.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jodd-log-4.1.4.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jodd-props-4.1.4.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jorphan-5.0.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/json-path-2.4.0.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/json-smart-2.3.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jsoup-1.11.2.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/jtidy-r938.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/junit-4.12.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/log4j-1.2-api-2.11.0.jar
+2021-01-26 22:36:39,648 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/log4j-api-2.11.0.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/log4j-core-2.11.0.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/log4j-slf4j-impl-2.11.0.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/mail-1.5.0-b01.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/mongo-java-driver-2.11.3.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/oro-2.0.8.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ph-commons-9.1.2.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ph-css-6.1.1.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/rhino-1.7.10.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/rsyntaxtextarea-2.6.1.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/serializer-2.7.2.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/slf4j-api-1.7.25.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/slf4j-ext-1.7.25.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/tika-core-1.18.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/tika-parsers-1.18.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xalan-2.7.2.jar
+2021-01-26 22:36:39,649 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xercesImpl-2.11.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xml-apis-1.4.01.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xmlgraphics-commons-2.2.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xmlpull-1.1.3.1.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xpp3_min-1.1.4c.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/xstream-1.4.10.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_components-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_core-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_ftp-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_functions-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_http-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_java-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_jdbc-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_jms-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_junit-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_ldap-5.0.jar
+2021-01-26 22:36:39,650 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_mail-5.0.jar
+2021-01-26 22:36:39,651 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_mongodb-5.0.jar
+2021-01-26 22:36:39,651 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_native-5.0.jar
+2021-01-26 22:36:39,651 DEBUG o.a.j.JMeter: /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/lib/ext/ApacheJMeter_tcp-5.0.jar
+2021-01-26 22:36:39,884 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2021-01-26 22:36:39,905 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2021-01-26 22:36:39,905 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2021-01-26 22:36:39,905 WARN o.a.j.JMeter: Could not set LAF to: com.bulenkov.darcula.DarculaLaf
+java.lang.ClassNotFoundException: com.bulenkov.darcula.DarculaLaf
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at javax.swing.SwingUtilities.loadSystemClass(SwingUtilities.java:2036) ~[?:?]
+	at javax.swing.UIManager.setLookAndFeel(UIManager.java:632) ~[?:?]
+	at org.apache.jmeter.JMeter.startGui(JMeter.java:373) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.JMeter.start(JMeter.java:536) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:245) [ApacheJMeter-5.0.jar:5.0 r1840935]
+2021-01-26 22:36:39,912 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-01-26 22:36:40,039 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:40,043 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:40,334 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-01-26 22:36:40,334 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-01-26 22:36:40,545 DEBUG o.a.j.f.StringFromFile: ++++++++ Construct org.apache.jmeter.functions.StringFromFile@383f1975
+2021-01-26 22:36:40,547 DEBUG o.a.j.e.u.CompoundVariable: Function count: 48
+2021-01-26 22:36:40,797 DEBUG o.a.j.g.UndoHistory: undo.history.size is set to 0, undo/redo feature is disabled
+2021-01-26 22:36:40,834 DEBUG o.a.j.g.u.JMeterMenuBar: Loading menu creator class: org.apache.jmeter.gui.action.ExportTransactionAndSamplerNames
+2021-01-26 22:36:40,835 DEBUG o.a.j.g.u.JMeterMenuBar: Instantiating: class org.apache.jmeter.gui.action.ExportTransactionAndSamplerNames
+2021-01-26 22:36:40,835 DEBUG o.a.j.g.u.JMeterMenuBar: Loading menu creator class: org.apache.jmeter.gui.action.Restart
+2021-01-26 22:36:40,835 DEBUG o.a.j.g.u.JMeterMenuBar: Instantiating: class org.apache.jmeter.gui.action.Restart
+2021-01-26 22:36:40,854 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: new
+2021-01-26 22:36:40,854 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: templates
+2021-01-26 22:36:40,854 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: open
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: save
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: undo
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: redo
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: cut
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: copy
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: paste
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: expand
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: collapse
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: toggle
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_start
+2021-01-26 22:36:40,855 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_start_notimers
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_stop
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_shutdown
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_clear
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: test_clear_all
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: search
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: search_reset
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: |
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: function_helper
+2021-01-26 22:36:40,856 DEBUG o.a.j.g.u.JMeterToolBar: Toolbar icon key: help
+2021-01-26 22:36:40,907 INFO o.a.j.JMeter: Loading file: /home/dima/Documents/JMETER/jmeter-loadtestweb/src/test/jmeter/jmeter-loadtestweb.jmx
+2021-01-26 22:36:40,908 INFO o.a.j.s.FileServer: Default base='/home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/bin'
+2021-01-26 22:36:40,909 INFO o.a.j.s.FileServer: Set new base='/home/dima/Documents/JMETER/jmeter-loadtestweb/src/test/jmeter'
+2021-01-26 22:36:40,943 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:40,946 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:36:40,947 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:36:41,066 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-01-26 22:36:41,083 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-01-26 22:36:41,085 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-01-26 22:36:41,087 INFO o.a.j.s.SaveService: Loading file: /home/dima/Documents/JMETER/jmeter-loadtestweb/src/test/jmeter/jmeter-loadtestweb.jmx
+2021-01-26 22:36:41,087 ERROR o.a.j.JMeter: Failure loading test file
+java.io.FileNotFoundException: /home/dima/Documents/JMETER/jmeter-loadtestweb/src/test/jmeter/jmeter-loadtestweb.jmx (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:432) ~[ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.JMeter.startGui(JMeter.java:403) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.JMeter.start(JMeter.java:536) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:245) [ApacheJMeter-5.0.jar:5.0 r1840935]
+2021-01-26 22:36:57,981 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:57,982 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,982 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,982 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,982 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,983 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:57,983 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,984 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,985 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,985 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,992 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,992 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,994 DEBUG o.a.j.g.UndoHistory: Clearing undo history
+2021-01-26 22:36:57,994 DEBUG o.a.j.g.UndoHistory: undo.history.size is set to 0, undo/redo feature is disabled
+2021-01-26 22:36:57,994 DEBUG o.a.j.g.t.JMeterTreeListener: value changed, updating currentPath
+2021-01-26 22:36:57,998 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:57,998 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,998 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,998 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,998 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,999 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:57,999 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:57,999 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:57,999 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:58,000 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:58,000 DEBUG o.a.j.g.GuiPackage: Updating gui to new node
+2021-01-26 22:36:58,002 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:58,023 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.assertions.CompareAssertion
+2021-01-26 22:36:58,033 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: compareContent
+2021-01-26 22:36:58,034 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: compareTime
+2021-01-26 22:36:58,034 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: stringsToSkip
+2021-01-26 22:36:58,037 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.assertions.JSR223Assertion
+2021-01-26 22:36:58,170 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:58,170 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,170 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,171 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:58,171 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,237 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.config.CSVDataSet
+2021-01-26 22:36:58,240 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property property in class org.apache.jmeter.config.CSVDataSet
+2021-01-26 22:36:58,240 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property property in class org.apache.jmeter.config.CSVDataSet
+2021-01-26 22:36:58,240 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: fileEncoding
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: variableNames
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: ignoreFirstLine
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: delimiter
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: quotedData
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: recycle
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: stopThread
+2021-01-26 22:36:58,241 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: shareMode
+2021-01-26 22:36:58,244 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.config.KeystoreConfig
+2021-01-26 22:36:58,246 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: preload
+2021-01-26 22:36:58,246 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: clientCertAliasVarName
+2021-01-26 22:36:58,246 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: startIndex
+2021-01-26 22:36:58,246 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: endIndex
+2021-01-26 22:36:58,248 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.config.RandomVariableConfig
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: variableName
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: outputFormat
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: minimumValue
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: maximumValue
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: randomSeed
+2021-01-26 22:36:58,250 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: perThread
+2021-01-26 22:36:58,258 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.config.gui.ObsoleteGui participates in no menus.
+2021-01-26 22:36:58,349 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.control.gui.TestPlanGui participates in no menus.
+2021-01-26 22:36:58,361 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.control.gui.WorkBenchGui participates in no menus.
+2021-01-26 22:36:58,362 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.extractor.BeanShellPostProcessor
+2021-01-26 22:36:58,365 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property resetInterpreter in class org.apache.jmeter.extractor.BeanShellPostProcessor
+2021-01-26 22:36:58,365 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resetInterpreter
+2021-01-26 22:36:58,365 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,365 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,365 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,366 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.extractor.DebugPostProcessor
+2021-01-26 22:36:58,370 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.extractor.JSR223PostProcessor
+2021-01-26 22:36:58,372 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:58,372 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,372 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,372 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:58,372 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,403 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.gui.NamePanel participates in no menus.
+2021-01-26 22:36:58,404 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.modifiers.BeanShellPreProcessor
+2021-01-26 22:36:58,406 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property resetInterpreter in class org.apache.jmeter.modifiers.BeanShellPreProcessor
+2021-01-26 22:36:58,406 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resetInterpreter
+2021-01-26 22:36:58,406 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,406 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,406 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,407 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.modifiers.JSR223PreProcessor
+2021-01-26 22:36:58,409 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:58,409 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,409 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,409 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:58,409 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-01-26 22:36:58,427 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-01-26 22:36:58,463 DEBUG o.a.j.p.h.c.g.HttpMirrorControlGui: Creating HttpMirrorControlGui
+2021-01-26 22:36:58,522 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.protocol.http.gui.HTTPArgumentsPanel participates in no menus.
+2021-01-26 22:36:58,532 DEBUG o.a.j.p.h.p.g.ProxyControlGui: Creating ProxyControlGui
+2021-01-26 22:36:58,722 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2021-01-26 22:36:58,722 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /home/dima/Documents/JMETER/jmeter-loadtestweb/target/jmeter/bin/proxyserver.jks
+2021-01-26 22:36:58,730 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.http.sampler.AccessLogSampler
+2021-01-26 22:36:58,734 DEBUG o.a.j.p.h.s.AccessLogSamplerBeanInfo: Entered access log sampler bean info
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: protocol
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: domain
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: portString
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: imageParsing
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parserClassName
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filterClassName
+2021-01-26 22:36:58,734 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: logFile
+2021-01-26 22:36:58,740 DEBUG o.a.j.p.h.s.AccessLogSamplerBeanInfo: found parsers: [org.apache.jmeter.protocol.http.util.accesslog.OrderPreservingLogParser, org.apache.jmeter.protocol.http.util.accesslog.SharedTCLogParser, org.apache.jmeter.protocol.http.util.accesslog.TCLogParser]
+2021-01-26 22:36:58,745 DEBUG o.a.j.p.h.s.AccessLogSamplerBeanInfo: Got to end of access log sampler bean info init
+2021-01-26 22:36:58,796 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.java.sampler.JSR223Sampler
+2021-01-26 22:36:58,798 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:58,798 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,798 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,798 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:58,798 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,800 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.jdbc.config.DataSourceElement
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: dataSource
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: poolMax
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: timeout
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: trimInterval
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: autocommit
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: transactionIsolation
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: keepAlive
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: connectionAge
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: checkQuery
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: dbUrl
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: driver
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: username
+2021-01-26 22:36:58,803 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: password
+2021-01-26 22:36:58,807 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.jdbc.processor.JDBCPostProcessor
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.processor.JDBCPostProcessor
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.processor.JDBCPostProcessor
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: dataSource
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryType
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: query
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArguments
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArgumentsTypes
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: variableNames
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultVariable
+2021-01-26 22:36:58,810 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryTimeout
+2021-01-26 22:36:58,811 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultSetHandler
+2021-01-26 22:36:58,812 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.jdbc.processor.JDBCPreProcessor
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.processor.JDBCPreProcessor
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.processor.JDBCPreProcessor
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: dataSource
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryType
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: query
+2021-01-26 22:36:58,813 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArguments
+2021-01-26 22:36:58,814 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArgumentsTypes
+2021-01-26 22:36:58,814 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: variableNames
+2021-01-26 22:36:58,814 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultVariable
+2021-01-26 22:36:58,814 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryTimeout
+2021-01-26 22:36:58,814 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultSetHandler
+2021-01-26 22:36:58,815 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler
+2021-01-26 22:36:58,816 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler
+2021-01-26 22:36:58,816 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property integerQueryTimeout in class org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: dataSource
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryType
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: query
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArguments
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryArgumentsTypes
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: variableNames
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultVariable
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: queryTimeout
+2021-01-26 22:36:58,817 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resultSetHandler
+2021-01-26 22:36:58,851 DEBUG o.a.j.g.u.MenuFactory: org.apache.jmeter.protocol.ldap.config.gui.LDAPArgumentsPanel participates in no menus.
+2021-01-26 22:36:58,946 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.sampler.DebugSampler
+2021-01-26 22:36:58,956 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:58,959 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:58,961 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:58,963 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.timers.BeanShellTimer
+2021-01-26 22:36:58,965 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property resetInterpreter in class org.apache.jmeter.timers.BeanShellTimer
+2021-01-26 22:36:58,965 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resetInterpreter
+2021-01-26 22:36:58,965 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,965 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,965 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,967 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.timers.ConstantThroughputTimer
+2021-01-26 22:36:58,968 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property property in class org.apache.jmeter.timers.ConstantThroughputTimer
+2021-01-26 22:36:58,969 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property property in class org.apache.jmeter.timers.ConstantThroughputTimer
+2021-01-26 22:36:58,969 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: throughput
+2021-01-26 22:36:58,969 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: calcMode
+2021-01-26 22:36:58,970 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.timers.JSR223Timer
+2021-01-26 22:36:58,971 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:58,972 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,972 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,972 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:58,972 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:58,973 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.timers.SyncTimer
+2021-01-26 22:36:58,975 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: groupSize
+2021-01-26 22:36:58,975 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: timeoutInMs
+2021-01-26 22:36:58,980 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.timers.poissonarrivals.PreciseThroughputTimer
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: throughput
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: throughputPeriod
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: duration
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: batchSize
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: batchThreadDelay
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: exactLimit
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: allowedThroughputSurplus
+2021-01-26 22:36:58,983 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: randomSeed
+2021-01-26 22:36:58,990 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.visualizers.BeanShellListener
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property resetInterpreter in class org.apache.jmeter.visualizers.BeanShellListener
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property stats in class org.apache.jmeter.visualizers.BeanShellListener
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property stats in class org.apache.jmeter.visualizers.BeanShellListener
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: resetInterpreter
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:58,992 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:59,009 DEBUG o.a.j.t.g.TestBeanGUI: testing class: class org.apache.jmeter.visualizers.JSR223Listener
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Localized display name not available for property stats in class org.apache.jmeter.visualizers.JSR223Listener
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Localized short description not available for property stats in class org.apache.jmeter.visualizers.JSR223Listener
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: scriptLanguage
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: parameters
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: filename
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: cacheKey
+2021-01-26 22:36:59,011 DEBUG o.a.j.t.BeanInfoSupport: Getting property for: script
+2021-01-26 22:36:59,087 DEBUG o.a.j.v.ViewResultsFullVisualizer: init() - pass
+2021-01-26 22:36:59,088 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-01-26 22:36:59,088 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-01-26 22:36:59,088 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-01-26 22:36:59,088 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-01-26 22:36:59,103 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:315) ~[?:?]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:462) [ApacheJMeter_components-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:430) [ApacheJMeter_components-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:342) [ApacheJMeter_components-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:147) [ApacheJMeter_components-5.0.jar:5.0 r1840935]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:584) [?:?]
+	at org.apache.jmeter.gui.util.MenuFactory.getGUIComponent(MenuFactory.java:174) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:141) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:106) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:92) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:184) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) [ApacheJMeter_core-5.0.jar:5.0 r1840935]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) [?:?]
+	at java.security.AccessController.doPrivileged(Native Method) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:740) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	... 32 more
+2021-01-26 22:36:59,175 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:59,175 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:59,175 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:59,175 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:59,176 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:59,176 DEBUG o.a.j.g.GuiPackage: Updating gui to new node
+2021-01-26 22:36:59,177 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:36:59,177 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:59,177 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:59,177 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:36:59,177 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:36:59,178 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:36:59,178 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:37:18,126 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:37:18,126 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:18,126 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:18,126 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:18,127 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,889 INFO o.a.j.s.FileServer: Set new base='/home/dima/Documents/JMETER/jmeter-loadtestweb/src/test/jmeter'
+2021-01-26 22:37:41,889 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:37:41,889 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,889 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,890 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,890 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,890 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:37:41,899 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:37:41,899 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,899 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,899 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,899 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,900 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:37:41,900 DEBUG o.a.j.g.a.CheckDirty: Node is class: class org.apache.jmeter.gui.tree.JMeterTreeNode
+2021-01-26 22:37:41,903 DEBUG o.a.j.g.GuiPackage: Updating current node Test Plan
+2021-01-26 22:37:41,903 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2021-01-26 22:37:41,904 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,904 DEBUG o.a.j.g.AbstractJMeterGuiComponent: setting element to enabled: true
+2021-01-26 22:37:41,904 DEBUG o.a.j.g.GuiPackage: Gui retrieved = org.apache.jmeter.control.gui.TestPlanGui[Test Plan,0,0,1132x763,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.border.EmptyBorder@23a8cf48,flags=9,maximumSize=,minimumSize=,preferredSize=]
