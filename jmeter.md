@@ -7,4 +7,6 @@
 Каталог /src/test/jmeter используется для хранения jmx-файлов (скриптов jmeter), 
 property-файлов (файлов настройки), дополнительных скриптов, например, groovy-скриптов.
 
-mvn jmeter:gui
+mvn jmeter:gui - запуск GUI для редактирования тест
+mvn verify - запуск сборки с тестом
+mvn jmeter-graph:create-graph - запустить с рисованием графика
